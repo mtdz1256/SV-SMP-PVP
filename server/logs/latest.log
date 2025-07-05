@@ -1,0 +1,489 @@
+[06:43:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-LTS; Microsoft Microsoft-11369942) on Linux 6.8.0-1027-azure (amd64)
+[06:43:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.6-47-main@57c202e (2025-06-28T20:15:05Z) for Minecraft 1.21.6
+[06:43:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:43:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[06:43:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - BetterStructures (1.8.2), Chunky (1.4.40), ClearLag (3.2.2), Geyser-Spigot (2.8.0-SNAPSHOT), WorldEdit (7.3.15-beta-01+5a731d2), WorldGuard (7.0.14+2339-43997ec), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[06:44:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:44:04] [ServerMain/INFO]: Loaded 1407 recipes
+[06:44:04] [ServerMain/INFO]: Loaded 1520 advancements
+[06:44:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[06:44:05] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 689.7ms
+[06:44:05] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[06:44:05] [Server thread/INFO]: Loading properties
+[06:44:05] [Server thread/INFO]: This server is running Paper version 1.21.6-47-main@57c202e (2025-06-28T20:15:05Z) (Implementing API version 1.21.6-R0.1-SNAPSHOT)
+[06:44:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:44:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:44:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:44:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[06:44:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[06:44:08] [Server thread/INFO]: Default game type: SURVIVAL
+[06:44:08] [Server thread/INFO]: Generating keypair
+[06:44:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:44:08] [Server thread/INFO]: Using epoll channel type
+[06:44:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:44:08] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[06:44:09] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.15-beta-01+5a731d2
+[06:44:10] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@68b2412a]
+[06:44:10] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
+[06:44:10] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[06:44:11] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[06:44:11] [Server thread/INFO]: [floodgate] Took 1,135ms to boot Floodgate
+[06:44:11] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[06:44:11] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[06:44:11] [Server thread/INFO]: [BetterStructures] Loading server plugin BetterStructures v1.8.2
+[06:44:11] [Server thread/INFO]: [BetterStructures] MagmaCore v1.13-SNAPSHOT initialized!
+[06:44:11] [Server thread/INFO]: [BetterStructures] Registered /logify command
+[06:44:11] [Server thread/INFO]: [BetterStructures] WorldGuard is not enabled! WorldGuard is recommended when using the EliteMobs integration.
+[06:44:11] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.0-SNAPSHOT
+[06:44:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[06:44:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[06:44:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:44:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.15-beta-01+5a731d2
+[06:44:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06:44:13] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[06:44:13] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
+[06:44:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:44:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:44:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:44:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:44:16] [Server thread/INFO]: Preparing level "world"
+[06:44:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:44:19] [Server thread/INFO]: Preparing spawn area: 0%
+[06:44:19] [Server thread/INFO]: Preparing spawn area: 2%
+[06:44:20] [Server thread/INFO]: Preparing spawn area: 2%
+[06:44:21] [Server thread/INFO]: Preparing spawn area: 18%
+[06:44:21] [Server thread/INFO]: Preparing spawn area: 18%
+[06:44:21] [Server thread/INFO]: Time elapsed: 2427 ms
+[06:44:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:44:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:44:21] [Server thread/INFO]: Preparing spawn area: 97%
+[06:44:21] [Server thread/INFO]: Time elapsed: 504 ms
+[06:44:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:44:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:44:22] [Server thread/INFO]: Time elapsed: 338 ms
+[06:44:22] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world) Blacklist loaded with 3 entries.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_nether) Blacklist loaded with 3 entries.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Blacklist loaded with 3 entries.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[06:44:22] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[06:44:22] [Server thread/INFO]: [WorldGuard] Loading region data...
+[06:44:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[06:44:24] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[06:44:24] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[06:44:24] [Server thread/INFO]: [ClearLag] Loading modules...
+[06:44:24] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[06:44:24] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[06:44:24] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[06:44:24] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[06:44:24] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[06:44:24] [Thread-8/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[06:44:24] [Thread-8/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[06:44:24] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[06:44:24] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[06:44:24] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[06:44:24] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[06:44:24] [Server thread/INFO]: [BetterStructures] Enabling BetterStructures v1.8.2
+[06:44:24] [Server thread/INFO]:     ____       __  __            _____ __                  __                      
+[06:44:24] [Server thread/INFO]:    / __ )___  / /_/ /____  _____/ ___// /________  _______/ /___  __________  _____
+[06:44:24] [Server thread/INFO]:   / __  / _ \/ __/ __/ _ \/ ___/\__ \/ __/ ___/ / / / ___/ __/ / / / ___/ _ \/ ___/
+[06:44:24] [Server thread/INFO]:  / /_/ /  __/ /_/ /_/  __/ /   ___/ / /_/ /  / /_/ / /__/ /_/ /_/ / /  /  __(__  ) 
+[06:44:24] [Server thread/INFO]: /_____/\___/\__/\__/\___/_/   /____/\__/_/   \__,_/\___/\__/\__,_/_/   \___/____/
+[06:44:24] [Server thread/INFO]: [BetterStructures] Initialized version 1.8.2!
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2/schematics/caves_and_lost_civilizations_free
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2/schematics
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2/pack.meta
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2/content_packages
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_caves_and_lost_civilizations_free_pack_v2.zip
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/BetterStructures Exploration Pack/schematics/exploration
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/BetterStructures Exploration Pack/schematics
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/BetterStructures Exploration Pack/pack.meta
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/BetterStructures Exploration Pack
+[06:44:24] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/BetterStructures Exploration Pack.zip
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_default_pack_v3/schematics/default
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_default_pack_v3/schematics
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_default_pack_v3/pack.meta
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_default_pack_v3
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_default_pack_v3.zip
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/schematics/BetterStructures Free Elite Shrines
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/schematics
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/pack.meta
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/content_packages
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/powers/BetterStructures Free Elite Shrines
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/powers
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/custombosses/BetterStructures Free Elite Shrines
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/custombosses
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/customitems/BetterStructures Free Elite Shrines
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs/customitems
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4/elitemobs
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4
+[06:44:25] [Server thread/INFO]: [BetterStructures] Cleaning up /workspaces/SV-SMP-PVP/server/plugins/BetterStructures/imports/betterstructures_free_elite_shrines_pack_v4.zip
+[06:44:25] [Server thread/INFO]: [BetterStructures] Supported server version detected: v1_21_R5
+[06:44:25] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 228 ms to scan 1 urls, producing 1 keys and 5 values
+[06:44:26] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 11 ms to scan 1 urls, producing 1 keys and 29 values
+[06:44:26] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 1 values
+[06:44:27] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 145 ms to scan 121 urls, producing 0 keys and 0 values
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_barren.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_nether.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_barren.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_tundra.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_ruins_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_ruins_end.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_tundra.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_grassland.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_barren.yml will not be used.
+[06:44:47] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:47] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_end.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_end.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_mines_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_mines_end.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_desert.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_nether.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_tundra.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_desert.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_tundra.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_grassland.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_grassland.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_tundra.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_desert.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_nether.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_grassland.yml will not be used.
+[06:44:48] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:48] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_barren.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_tundra.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_nether.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_nether.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_desert.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_barren.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_flagship_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_flagship_grassland.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_deepunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_deepunderground.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_dripstone.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_dripstone.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_lush.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_lush.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_grassland.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_end.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_end.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_desert.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_tundra.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_nether.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_end.yml will not be used.
+[06:44:49] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:49] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_end.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_grassland.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_end.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_shallowunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_shallowunderground.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_barren.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_barren.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_nether.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_desert.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_end.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_nether.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_desert.yml will not be used.
+[06:44:50] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[06:44:50] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_grassland.yml will not be used.
+[06:44:51] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 5 ms to scan 1 urls, producing 1 keys and 8 values
+[06:44:51] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.0-SNAPSHOT
+[06:44:51] [Server thread/INFO]: [spark] Starting background profiler...
+[06:44:52] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:44:52] [Server thread/INFO]: [Geyser-Spigot] 
+[06:44:52] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.0-b867 (git-master-a768be3)
+[06:44:52] [Server thread/INFO]: [Geyser-Spigot] 
+[06:44:52] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:44:58] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[06:44:58] [Server thread/INFO]: [Geyser-Spigot] Done (6.214s)! Run /geyser help for help!
+[06:44:58] [Server thread/INFO]: Done preparing level "world" (42.035s)
+[06:44:58] [Server thread/INFO]: Starting GS4 status listener
+[06:44:58] [Server thread/INFO]: Thread Query Listener started
+[06:44:58] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[06:44:58] [Server thread/INFO]: Running delayed init tasks
+[06:44:58] [Server thread/INFO]: [Chunky] No tasks to continue.
+[06:44:58] [Server thread/INFO]: Done (68.346s)! For help, type "help"
+[06:44:58] [Craft Scheduler Thread - 4 - BetterStructures/INFO]: [BetterStructures] Latest public release is 1.8.2
+[06:44:58] [Craft Scheduler Thread - 4 - BetterStructures/INFO]: [BetterStructures] Your version is 1.8.2
+[06:44:58] [Craft Scheduler Thread - 4 - BetterStructures/INFO]: [BetterStructures] You are running the latest version!
+[06:46:11] [Server thread/INFO]: [Chunky] World changed to world.
+[06:46:30] [Server thread/INFO]: [Chunky] Radius changed to 5000.
+[06:46:39] [Server thread/INFO]: [Chunky] Task started in world for the square region centered at 0, 0 with radius 5000.
+[06:46:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 17 chunks (0.00%), ETA: 36:19:50, Rate: 3.0 cps, Current: 0, 4
+[06:46:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 26 chunks (0.01%), ETA: 28:24:42, Rate: 3.8 cps, Current: 2, 5
+[06:46:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 35 chunks (0.01%), ETA: 26:22:06, Rate: 4.1 cps, Current: 5, 1
+[06:46:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 39 chunks (0.01%), ETA: 27:03:15, Rate: 4.0 cps, Current: 3, 6
+[06:46:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 51 chunks (0.01%), ETA: 24:13:21, Rate: 4.5 cps, Current: 6, 0
+[06:46:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 57 chunks (0.01%), ETA: 24:04:35, Rate: 4.5 cps, Current: 4, 7
+[06:46:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 73 chunks (0.02%), ETA: 20:42:58, Rate: 5.3 cps, Current: 8, 3
+[06:46:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 82 chunks (0.02%), ETA: 21:54:04, Rate: 5.0 cps, Current: 13, 2
+[06:46:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 93 chunks (0.02%), ETA: 20:37:34, Rate: 5.3 cps, Current: 14, 1
+[06:46:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 104 chunks (0.03%), ETA: 19:35:32, Rate: 5.6 cps, Current: 13, 0
+[06:46:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 111 chunks (0.03%), ETA: 19:36:02, Rate: 5.6 cps, Current: 15, 0
+[06:47:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 115 chunks (0.03%), ETA: 21:44:07, Rate: 5.0 cps, Current: 10, 6
+[06:47:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 120 chunks (0.03%), ETA: 23:07:09, Rate: 4.7 cps, Current: 15, 3
+[06:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6814ms or 136 ticks behind
+[06:47:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 121 chunks (0.03%), ETA: 24:21:03, Rate: 4.5 cps, Current: 15, 1
+[06:47:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 147 chunks (0.04%), ETA: 20:58:23, Rate: 5.2 cps, Current: 14, 9
+[06:47:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 151 chunks (0.04%), ETA: 21:30:24, Rate: 5.1 cps, Current: 13, 12
+[06:47:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 169 chunks (0.04%), ETA: 18:13:16, Rate: 6.0 cps, Current: 11, 13
+[06:47:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 186 chunks (0.05%), ETA: 17:02:32, Rate: 6.4 cps, Current: 15, 12
+[06:47:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 199 chunks (0.05%), ETA: 16:28:33, Rate: 6.6 cps, Current: 5, 9
+[06:47:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 221 chunks (0.06%), ETA: 15:22:18, Rate: 7.1 cps, Current: 9, 15
+[06:47:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 225 chunks (0.06%), ETA: 15:39:27, Rate: 7.0 cps, Current: 7, 15
+[06:47:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 244 chunks (0.06%), ETA: 14:55:03, Rate: 7.3 cps, Current: 0, 9
+[06:47:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 252 chunks (0.06%), ETA: 14:39:58, Rate: 7.4 cps, Current: 1, 11
+[06:47:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 263 chunks (0.07%), ETA: 14:13:27, Rate: 7.7 cps, Current: 5, 18
+[06:47:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 278 chunks (0.07%), ETA: 13:46:37, Rate: 7.9 cps, Current: 6, 19
+[06:47:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 304 chunks (0.08%), ETA: 12:52:53, Rate: 8.5 cps, Current: 7, 20
+[06:47:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 308 chunks (0.08%), ETA: 12:53:41, Rate: 8.5 cps, Current: 1, 21
+[06:47:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 322 chunks (0.08%), ETA: 12:55:11, Rate: 8.4 cps, Current: 0, 21
+[06:47:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 340 chunks (0.09%), ETA: 11:48:41, Rate: 9.2 cps, Current: 4, 28
+[06:47:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 357 chunks (0.09%), ETA: 11:36:07, Rate: 9.4 cps, Current: 6, 24
+[06:47:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 365 chunks (0.09%), ETA: 12:23:37, Rate: 8.8 cps, Current: 4, 30
+[06:47:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 370 chunks (0.09%), ETA: 11:37:36, Rate: 9.4 cps, Current: 6, 25
+[06:47:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 389 chunks (0.10%), ETA: 11:15:15, Rate: 9.7 cps, Current: 7, 29
+[06:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6135ms or 122 ticks behind
+[06:47:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 411 chunks (0.10%), ETA: 10:53:57, Rate: 10.0 cps, Current: 9, 31
+[06:47:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 424 chunks (0.11%), ETA: 10:09:11, Rate: 10.7 cps, Current: 9, 23
+[06:47:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 451 chunks (0.11%), ETA: 9:41:23, Rate: 11.3 cps, Current: 9, 18
+[06:47:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 503 chunks (0.13%), ETA: 8:21:10, Rate: 13.1 cps, Current: 15, 25
+[06:47:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 515 chunks (0.13%), ETA: 8:42:21, Rate: 12.5 cps, Current: 16, 18
+[06:47:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 542 chunks (0.14%), ETA: 8:07:22, Rate: 13.4 cps, Current: 19, 17
+[06:47:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 564 chunks (0.14%), ETA: 8:04:09, Rate: 13.5 cps, Current: 16, 26
+[06:47:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 582 chunks (0.15%), ETA: 8:05:19, Rate: 13.5 cps, Current: 17, 27
+[06:47:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 609 chunks (0.15%), ETA: 8:09:56, Rate: 13.4 cps, Current: 19, 29
+[06:47:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 619 chunks (0.16%), ETA: 8:02:10, Rate: 13.6 cps, Current: 22, 24
+[06:47:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 640 chunks (0.16%), ETA: 8:01:08, Rate: 13.6 cps, Current: 26, 25
+[06:47:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 644 chunks (0.16%), ETA: 8:11:32, Rate: 13.3 cps, Current: 24, 27
+[06:47:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 663 chunks (0.17%), ETA: 8:05:48, Rate: 13.5 cps, Current: 26, 29
+[06:47:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 678 chunks (0.17%), ETA: 8:05:11, Rate: 13.5 cps, Current: 28, 28
+[06:47:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 682 chunks (0.17%), ETA: 8:33:27, Rate: 12.7 cps, Current: 27, 30
+[06:47:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 711 chunks (0.18%), ETA: 8:01:37, Rate: 13.6 cps, Current: 24, 20
+[06:47:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 731 chunks (0.19%), ETA: 7:53:38, Rate: 13.8 cps, Current: 25, 17
+[06:47:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 740 chunks (0.19%), ETA: 8:04:15, Rate: 13.5 cps, Current: 31, 23
+[06:47:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 762 chunks (0.19%), ETA: 7:58:24, Rate: 13.7 cps, Current: 30, 19
+[06:47:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 770 chunks (0.20%), ETA: 7:24:37, Rate: 14.7 cps, Current: 30, 15
+[06:47:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 805 chunks (0.20%), ETA: 7:06:18, Rate: 15.3 cps, Current: 30, 10
+[06:47:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 832 chunks (0.21%), ETA: 6:56:58, Rate: 15.7 cps, Current: 31, 10
+[06:47:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 850 chunks (0.22%), ETA: 6:46:15, Rate: 16.1 cps, Current: 16, 8
+[06:48:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 905 chunks (0.23%), ETA: 6:17:50, Rate: 17.3 cps, Current: 17, 7
+[06:48:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 928 chunks (0.24%), ETA: 6:14:15, Rate: 17.5 cps, Current: 20, 5
+[06:48:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 933 chunks (0.24%), ETA: 6:18:06, Rate: 17.3 cps, Current: 20, 4
+[06:48:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 940 chunks (0.24%), ETA: 6:33:25, Rate: 16.6 cps, Current: 22, 4
+[06:48:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 958 chunks (0.24%), ETA: 6:59:44, Rate: 15.6 cps, Current: 20, 1
+[06:48:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 965 chunks (0.25%), ETA: 6:58:59, Rate: 15.6 cps, Current: 21, 1
+[06:48:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 990 chunks (0.25%), ETA: 7:04:50, Rate: 15.4 cps, Current: 22, 0
+[06:48:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1014 chunks (0.26%), ETA: 6:55:53, Rate: 15.7 cps, Current: 29, 2
+[06:48:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1033 chunks (0.26%), ETA: 6:57:06, Rate: 15.7 cps, Current: 34, 4
+[06:48:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1047 chunks (0.27%), ETA: 6:59:17, Rate: 15.6 cps, Current: 35, 4
+[06:48:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1064 chunks (0.27%), ETA: 7:00:23, Rate: 15.5 cps, Current: 37, 6
+[06:48:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1072 chunks (0.27%), ETA: 7:02:15, Rate: 15.5 cps, Current: 36, 1
+[06:48:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1073 chunks (0.27%), ETA: 7:24:53, Rate: 14.7 cps, Current: 36, 7
+[06:48:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1077 chunks (0.27%), ETA: 7:30:39, Rate: 14.5 cps, Current: 39, 2
+[06:48:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1089 chunks (0.28%), ETA: 7:31:03, Rate: 14.5 cps, Current: 42, 2
+[06:48:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1094 chunks (0.28%), ETA: 7:35:38, Rate: 14.3 cps, Current: 40, 3
+[06:48:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1107 chunks (0.28%), ETA: 8:02:25, Rate: 13.5 cps, Current: 41, 0
+[06:48:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1124 chunks (0.29%), ETA: 8:10:03, Rate: 13.3 cps, Current: 46, 3
+[06:48:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1133 chunks (0.29%), ETA: 8:11:08, Rate: 13.3 cps, Current: 40, 8
+[06:48:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1146 chunks (0.29%), ETA: 8:18:33, Rate: 13.1 cps, Current: 42, 7
+[06:48:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1165 chunks (0.30%), ETA: 8:06:22, Rate: 13.4 cps, Current: 46, 8
+[06:48:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1169 chunks (0.30%), ETA: 8:51:21, Rate: 12.3 cps, Current: 40, 10
+[06:48:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1184 chunks (0.30%), ETA: 9:09:43, Rate: 11.9 cps, Current: 41, 11
+[06:48:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1203 chunks (0.31%), ETA: 9:03:04, Rate: 12.0 cps, Current: 39, 13
+[06:48:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1220 chunks (0.31%), ETA: 10:09:55, Rate: 10.7 cps, Current: 38, 13
+[06:48:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1246 chunks (0.32%), ETA: 10:06:28, Rate: 10.8 cps, Current: 36, 11
+[06:48:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1286 chunks (0.33%), ETA: 9:05:18, Rate: 12.0 cps, Current: 33, 17
+[06:48:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1311 chunks (0.33%), ETA: 8:38:44, Rate: 12.6 cps, Current: 38, 17
+[06:48:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1331 chunks (0.34%), ETA: 8:33:10, Rate: 12.7 cps, Current: 38, 20
+[06:48:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1351 chunks (0.34%), ETA: 8:18:23, Rate: 13.1 cps, Current: 34, 24
+[06:48:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1386 chunks (0.35%), ETA: 8:00:27, Rate: 13.6 cps, Current: 35, 30
+[06:48:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1402 chunks (0.36%), ETA: 8:13:24, Rate: 13.2 cps, Current: 39, 26
+[06:48:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1422 chunks (0.36%), ETA: 8:09:40, Rate: 13.3 cps, Current: 39, 31
+[06:48:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1438 chunks (0.37%), ETA: 8:08:16, Rate: 13.4 cps, Current: 40, 31
+[06:48:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1450 chunks (0.37%), ETA: 8:10:19, Rate: 13.3 cps, Current: 45, 26
+[06:48:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1480 chunks (0.38%), ETA: 7:50:23, Rate: 13.9 cps, Current: 46, 25
+[06:48:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1527 chunks (0.39%), ETA: 7:09:11, Rate: 15.2 cps, Current: 47, 25
+[06:48:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1538 chunks (0.39%), ETA: 6:57:21, Rate: 15.6 cps, Current: 48, 17
+[06:48:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1553 chunks (0.40%), ETA: 6:37:16, Rate: 16.4 cps, Current: 52, 19
+[06:48:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1576 chunks (0.40%), ETA: 6:29:08, Rate: 16.8 cps, Current: 48, 23
+[06:48:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1600 chunks (0.41%), ETA: 6:06:48, Rate: 17.8 cps, Current: 48, 29
+[06:48:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1619 chunks (0.41%), ETA: 6:07:47, Rate: 17.7 cps, Current: 50, 28
+[06:48:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1644 chunks (0.42%), ETA: 5:53:13, Rate: 18.5 cps, Current: 56, 24
+[06:48:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1660 chunks (0.42%), ETA: 5:51:09, Rate: 18.6 cps, Current: 55, 27
+[06:48:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1679 chunks (0.43%), ETA: 5:46:14, Rate: 18.8 cps, Current: 58, 24
+[06:48:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1692 chunks (0.43%), ETA: 5:45:35, Rate: 18.9 cps, Current: 57, 31
+[06:48:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1699 chunks (0.43%), ETA: 5:52:37, Rate: 18.5 cps, Current: 61, 28
+[06:48:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1717 chunks (0.44%), ETA: 5:53:21, Rate: 18.5 cps, Current: 62, 27
+[06:48:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1730 chunks (0.44%), ETA: 5:46:35, Rate: 18.8 cps, Current: 62, 25
+[06:48:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1758 chunks (0.45%), ETA: 5:37:30, Rate: 19.3 cps, Current: 58, 19
+[06:48:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1780 chunks (0.45%), ETA: 5:35:57, Rate: 19.4 cps, Current: 61, 18
+[06:49:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1786 chunks (0.45%), ETA: 5:52:03, Rate: 18.5 cps, Current: 61, 15
+[06:49:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1795 chunks (0.46%), ETA: 6:13:53, Rate: 17.4 cps, Current: 62, 15
+[06:49:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1810 chunks (0.46%), ETA: 6:22:38, Rate: 17.0 cps, Current: 63, 17
+[06:49:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1836 chunks (0.47%), ETA: 6:16:50, Rate: 17.3 cps, Current: 63, 11
+[06:49:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1861 chunks (0.47%), ETA: 6:12:51, Rate: 17.5 cps, Current: 63, 8
+[06:49:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1885 chunks (0.48%), ETA: 6:21:18, Rate: 17.1 cps, Current: 59, 8
+[06:49:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1928 chunks (0.49%), ETA: 5:56:22, Rate: 18.3 cps, Current: 55, 7
+[06:49:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1954 chunks (0.50%), ETA: 5:55:00, Rate: 18.4 cps, Current: 50, 2
+[06:49:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 1978 chunks (0.50%), ETA: 5:46:39, Rate: 18.8 cps, Current: 56, 4
+[06:49:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2001 chunks (0.51%), ETA: 5:41:53, Rate: 19.1 cps, Current: 58, 4
+[06:49:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2011 chunks (0.51%), ETA: 5:50:48, Rate: 18.6 cps, Current: 54, 0
+[06:49:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2031 chunks (0.52%), ETA: 6:13:03, Rate: 17.5 cps, Current: 61, 3
+[06:49:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2037 chunks (0.52%), ETA: 6:16:07, Rate: 17.3 cps, Current: 61, 1
+[06:49:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2040 chunks (0.52%), ETA: 6:24:51, Rate: 16.9 cps, Current: 62, 2
+[06:49:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2048 chunks (0.52%), ETA: 7:25:38, Rate: 14.6 cps, Current: 34, -30
+[06:49:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2054 chunks (0.52%), ETA: 7:46:11, Rate: 14.0 cps, Current: 34, -28
+[06:49:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2061 chunks (0.52%), ETA: 7:57:02, Rate: 13.7 cps, Current: 62, 1
+[06:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5478ms or 109 ticks behind
+[06:49:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2084 chunks (0.53%), ETA: 7:49:51, Rate: 13.9 cps, Current: 34, -25
+[06:49:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2093 chunks (0.53%), ETA: 7:59:16, Rate: 13.6 cps, Current: 37, -29
+[06:49:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2100 chunks (0.53%), ETA: 8:03:51, Rate: 13.5 cps, Current: 38, -25
+[06:49:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2113 chunks (0.54%), ETA: 8:10:09, Rate: 13.3 cps, Current: 39, -31
+[06:49:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2129 chunks (0.54%), ETA: 8:03:21, Rate: 13.5 cps, Current: 44, -28
+[06:49:27] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2147 chunks (0.55%), ETA: 8:17:54, Rate: 13.1 cps, Current: 40, -26
+[06:49:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2154 chunks (0.55%), ETA: 8:36:38, Rate: 12.6 cps, Current: 47, -32
+[06:49:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2156 chunks (0.55%), ETA: 8:40:04, Rate: 12.5 cps, Current: 40, -24
+[06:49:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2191 chunks (0.56%), ETA: 8:09:06, Rate: 13.3 cps, Current: 43, -22
+[06:49:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2202 chunks (0.56%), ETA: 8:11:48, Rate: 13.2 cps, Current: 44, -21
+[06:49:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2217 chunks (0.56%), ETA: 8:26:03, Rate: 12.9 cps, Current: 46, -19
+[06:49:34] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2240 chunks (0.57%), ETA: 8:33:15, Rate: 12.7 cps, Current: 45, -18
+[06:49:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2258 chunks (0.57%), ETA: 9:35:19, Rate: 11.3 cps, Current: 47, -17
+[06:49:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2280 chunks (0.58%), ETA: 9:42:31, Rate: 11.2 cps, Current: 34, -22
+[06:49:38] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2297 chunks (0.58%), ETA: 9:56:23, Rate: 10.9 cps, Current: 39, -16
+[06:49:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2312 chunks (0.59%), ETA: 10:30:09, Rate: 10.3 cps, Current: 32, -21
+[06:49:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2331 chunks (0.59%), ETA: 10:29:37, Rate: 10.3 cps, Current: 36, -13
+[06:49:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2338 chunks (0.59%), ETA: 10:29:42, Rate: 10.3 cps, Current: 36, -11
+[06:49:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2348 chunks (0.60%), ETA: 10:11:56, Rate: 10.6 cps, Current: 35, -10
+[06:49:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2355 chunks (0.60%), ETA: 9:29:53, Rate: 11.4 cps, Current: 34, -9
+[06:49:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2391 chunks (0.61%), ETA: 8:51:38, Rate: 12.2 cps, Current: 32, -11
+[06:49:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2434 chunks (0.62%), ETA: 8:09:38, Rate: 13.3 cps, Current: 40, -7
+[06:49:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2465 chunks (0.63%), ETA: 7:47:57, Rate: 13.9 cps, Current: 46, -1
+[06:49:49] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2480 chunks (0.63%), ETA: 7:39:14, Rate: 14.2 cps, Current: 42, -8
+[06:49:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2519 chunks (0.64%), ETA: 7:22:49, Rate: 14.7 cps, Current: 46, -7
+[06:49:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2551 chunks (0.65%), ETA: 6:58:02, Rate: 15.6 cps, Current: 47, -7
+[06:49:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2563 chunks (0.65%), ETA: 6:57:33, Rate: 15.6 cps, Current: 48, -14
+[06:49:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2590 chunks (0.66%), ETA: 6:47:18, Rate: 16.0 cps, Current: 48, -10
+[06:49:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2626 chunks (0.67%), ETA: 6:28:49, Rate: 16.7 cps, Current: 50, -9
+[06:49:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2636 chunks (0.67%), ETA: 6:31:42, Rate: 16.6 cps, Current: 51, -1
+[06:49:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2645 chunks (0.67%), ETA: 6:19:05, Rate: 17.2 cps, Current: 55, -11
+[06:49:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2732 chunks (0.69%), ETA: 5:33:39, Rate: 19.5 cps, Current: 58, -8
+[06:50:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2755 chunks (0.70%), ETA: 5:39:06, Rate: 19.2 cps, Current: 61, -9
+[06:50:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2780 chunks (0.71%), ETA: 5:30:57, Rate: 19.7 cps, Current: 58, -14
+[06:50:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2795 chunks (0.71%), ETA: 5:32:34, Rate: 19.6 cps, Current: 61, -12
+[06:50:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2811 chunks (0.72%), ETA: 5:34:51, Rate: 19.4 cps, Current: 62, -13
+[06:50:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2825 chunks (0.72%), ETA: 5:32:32, Rate: 19.6 cps, Current: 59, -18
+[06:50:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2873 chunks (0.73%), ETA: 5:19:46, Rate: 20.3 cps, Current: 55, -19
+[06:50:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2885 chunks (0.73%), ETA: 5:28:34, Rate: 19.8 cps, Current: 63, -20
+[06:50:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2909 chunks (0.74%), ETA: 5:15:28, Rate: 20.6 cps, Current: 49, -21
+[06:50:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2933 chunks (0.75%), ETA: 5:11:11, Rate: 20.9 cps, Current: 49, -24
+[06:50:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2953 chunks (0.75%), ETA: 5:06:06, Rate: 21.2 cps, Current: 55, -26
+[06:50:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 2979 chunks (0.76%), ETA: 5:03:51, Rate: 21.4 cps, Current: 55, -27
+[06:50:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3004 chunks (0.76%), ETA: 4:45:06, Rate: 22.8 cps, Current: 51, -31
+[06:50:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3031 chunks (0.77%), ETA: 4:43:51, Rate: 22.9 cps, Current: 51, -32
+[06:50:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3040 chunks (0.77%), ETA: 4:56:14, Rate: 21.9 cps, Current: 59, -29
+[06:50:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3055 chunks (0.78%), ETA: 5:16:55, Rate: 20.5 cps, Current: 63, -26
+[06:50:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3061 chunks (0.78%), ETA: 5:25:12, Rate: 20.0 cps, Current: 62, -27
+[06:50:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3062 chunks (0.78%), ETA: 5:49:33, Rate: 18.6 cps, Current: 62, -28
+[06:50:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3064 chunks (0.78%), ETA: 6:16:29, Rate: 17.3 cps, Current: 63, -27
+[06:50:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3065 chunks (0.78%), ETA: 6:42:14, Rate: 16.2 cps, Current: 62, -30
+[06:50:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3070 chunks (0.78%), ETA: 7:08:06, Rate: 15.2 cps, Current: 2, -28
+[06:50:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3077 chunks (0.78%), ETA: 9:11:27, Rate: 11.8 cps, Current: 1, -30
+[06:50:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3082 chunks (0.78%), ETA: 9:42:19, Rate: 11.2 cps, Current: 63, -31
+[06:50:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3091 chunks (0.79%), ETA: 10:10:10, Rate: 10.7 cps, Current: 3, -28
+[06:50:33] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3099 chunks (0.79%), ETA: 10:57:30, Rate: 9.9 cps, Current: 0, -29
+[06:50:35] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3118 chunks (0.79%), ETA: 11:46:31, Rate: 9.2 cps, Current: 5, -31
+[06:50:36] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3123 chunks (0.79%), ETA: 13:25:28, Rate: 8.1 cps, Current: 6, -31
+[06:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[06:50:41] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3129 chunks (0.80%), ETA: 18:16:20, Rate: 5.9 cps, Current: 2, -25
+[06:50:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3140 chunks (0.80%), ETA: 20:01:37, Rate: 5.4 cps, Current: 7, -32
+[06:50:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3149 chunks (0.80%), ETA: 28:33:29, Rate: 3.8 cps, Current: 9, -31
+[06:50:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3171 chunks (0.81%), ETA: 24:37:06, Rate: 4.4 cps, Current: 14, -29
+[06:50:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3178 chunks (0.81%), ETA: 25:36:13, Rate: 4.2 cps, Current: 8, -24
+[06:50:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3196 chunks (0.81%), ETA: 23:18:53, Rate: 4.6 cps, Current: 15, -28
+[06:50:48] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3212 chunks (0.82%), ETA: 20:36:06, Rate: 5.3 cps, Current: 11, -23
+[06:50:50] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3219 chunks (0.82%), ETA: 20:05:20, Rate: 5.4 cps, Current: 13, -22
+[06:50:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3243 chunks (0.82%), ETA: 16:54:34, Rate: 6.4 cps, Current: 14, -20
+[06:50:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3244 chunks (0.83%), ETA: 17:30:35, Rate: 6.2 cps, Current: 7, -24
+[06:50:54] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3260 chunks (0.83%), ETA: 16:29:36, Rate: 6.6 cps, Current: 15, -21
+[06:50:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3275 chunks (0.83%), ETA: 14:39:43, Rate: 7.4 cps, Current: 5, -20
+[06:50:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3306 chunks (0.84%), ETA: 13:11:00, Rate: 8.2 cps, Current: 1, -23
+[06:50:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3326 chunks (0.85%), ETA: 12:34:53, Rate: 8.6 cps, Current: 2, -15
+[06:50:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3341 chunks (0.85%), ETA: 12:00:25, Rate: 9.0 cps, Current: 7, -15
+[06:50:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3353 chunks (0.85%), ETA: 11:52:49, Rate: 9.1 cps, Current: 4, -12
+[06:51:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3380 chunks (0.86%), ETA: 11:08:18, Rate: 9.7 cps, Current: 6, -13
+[06:51:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3381 chunks (0.86%), ETA: 11:08:55, Rate: 9.7 cps, Current: 2, -11
+[06:51:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3438 chunks (0.87%), ETA: 9:18:27, Rate: 11.6 cps, Current: 6, -9
+[06:51:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3483 chunks (0.89%), ETA: 8:28:19, Rate: 12.8 cps, Current: 10, -3
+[06:51:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3490 chunks (0.89%), ETA: 8:38:09, Rate: 12.5 cps, Current: 14, -3
+[06:51:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3555 chunks (0.90%), ETA: 7:26:01, Rate: 14.6 cps, Current: 14, -5
+[06:51:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3578 chunks (0.91%), ETA: 6:20:10, Rate: 17.1 cps, Current: 16, -15
+[06:51:08] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3588 chunks (0.91%), ETA: 6:26:01, Rate: 16.8 cps, Current: 16, -14
+[06:51:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3596 chunks (0.91%), ETA: 6:36:53, Rate: 16.4 cps, Current: 17, -13
+[06:51:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3610 chunks (0.92%), ETA: 6:39:21, Rate: 16.3 cps, Current: 16, -11
+[06:51:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3620 chunks (0.92%), ETA: 6:41:32, Rate: 16.2 cps, Current: 22, -13
+[06:51:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3644 chunks (0.93%), ETA: 6:12:21, Rate: 17.4 cps, Current: 17, -8
+[06:51:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3655 chunks (0.93%), ETA: 6:18:46, Rate: 17.1 cps, Current: 23, -12
+[06:51:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3706 chunks (0.94%), ETA: 5:57:18, Rate: 18.2 cps, Current: 23, -8
+[06:51:17] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3746 chunks (0.95%), ETA: 5:43:45, Rate: 18.9 cps, Current: 31, -2
+[06:51:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3818 chunks (0.97%), ETA: 5:13:11, Rate: 20.7 cps, Current: 26, -14
+[06:51:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3867 chunks (0.98%), ETA: 4:44:41, Rate: 22.8 cps, Current: 29, -24
+[06:51:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3888 chunks (0.99%), ETA: 4:46:07, Rate: 22.7 cps, Current: 28, -24
+[06:51:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3921 chunks (1.00%), ETA: 4:41:52, Rate: 23.0 cps, Current: 16, -20
+[06:51:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3957 chunks (1.01%), ETA: 4:27:03, Rate: 24.3 cps, Current: 19, -23
+[06:51:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 3986 chunks (1.01%), ETA: 4:23:40, Rate: 24.6 cps, Current: 16, -29
+[06:51:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 4004 chunks (1.02%), ETA: 4:20:07, Rate: 24.9 cps, Current: 17, -32
